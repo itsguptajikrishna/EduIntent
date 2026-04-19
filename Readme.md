@@ -146,20 +146,6 @@ python train.py --config configs/config.yaml --dataset data/processed/
 python evaluate.py --checkpoint checkpoints/best_model.pt --data data/processed/test/
 ```
 
----
-
-## Results
-
-| Model | Accuracy | F1 Score |
-|---|---|---|
-| Text-only baseline | — | — |
-| Multimodal baseline | — | — |
-| **TCL-MAP (ours)** | **—** | **—** |
-
-> Results to be updated after training on the EduIntent dataset.
-
----
-
 ## Why the Education Domain?
 
 Most intent recognition research focuses on transactional domains. The classroom is fundamentally different:
