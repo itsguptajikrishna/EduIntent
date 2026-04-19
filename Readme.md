@@ -15,3 +15,7 @@ MintRec intents. On top of this, we implemented Token-Level Contrastive Learning
 Modality-Aware Prompting, a method that aligns acoustic and textual signals at the sub-utterance 
 level, something that generic intent classifiers completely ignore. 
 The result is a system trained on how learning actually sounds, not just what it means on paper.
+
+
+
+
